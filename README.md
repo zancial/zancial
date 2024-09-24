@@ -3,10 +3,10 @@
 
 ## Контактная информация:
 <p style="text-align: start">
-   Email: <a href='mailto:Valeev.ilya2014@yandex.ru'>Valeev.ilya2014@yandex.ru</a>
+   ✉️Email: <a href='mailto:Valeev.ilya2014@yandex.ru'>Valeev.ilya2014@yandex.ru</a>
 </p>
 <p style="text-align: start">
-    Telegram: <a href='https://t.me/zancial'>@zancial</a>
+   📱Telegram: <a href='https://t.me/zancial'>@zancial</a>
 </p>
 
 ## 💻 Hard Skills:
