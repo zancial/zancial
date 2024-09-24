@@ -1,5 +1,4 @@
-# Ilya Valeev
-### Backend Developer | UI/UX Designer
+# Backend Developer | UI/UX Designer
 
 ## Контактная информация:
 <p style="text-align: start">
