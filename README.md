@@ -1,4 +1,4 @@
-# Backend Developer | UI/UX Designer
+# Frontend Developer | UI/UX Designer
 
 ## Контактная информация:
 <p style="text-align: start">
